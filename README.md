@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @parvinkumar91
-- 👀 I’m interested in coding and learning new skills in software field
+- 👀 I’m interested in developing components and learning new skills in software field
 - 🌱 I’m currently learning SFDC
 - 📫 How to reach me parvin.kumarfeb@gmail.com
 
